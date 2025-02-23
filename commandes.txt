@@ -1,2 +1,0 @@
-## Lancer streamlit en local
-streamlit run app.py
